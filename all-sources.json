@@ -1,0 +1,38 @@
+{
+    "name": "Hydra All Sources",
+    "downloads": [
+      {
+        "sources": [
+          "https://hydrasources.su/sources/xatab.json",
+          "https://hydrasources.su/sources/gog.json",
+          "https://hydrasources.su/sources/tinyrepacks.json",
+          "https://hydrasources.su/sources/onlinefix.json",
+          "https://hydrasources.su/sources/fitgirl.json",
+          "https://hydrasources.su/sources/kaoskrew.json",
+          "https://hydrasources.su/sources/empress.json",
+          "https://hydrasources.su/sources/steamrip.json",
+          "https://hydrasources.su/sources/dodi.json",
+          "https://hydrasources.su/sources/steamrip-software.json",
+          "https://hydrasources.su/sources/atop-games.json",
+          "https://raw.githubusercontent.com/Wkeynhk/Rutor/refs/heads/main/rutor.json",
+          "https://hydralinks.cloud/sources/gog.json",
+          "https://raw.githubusercontent.com/Shisuiicaro/source/refs/heads/main/shisuyssource.json",
+          "https://hydrasources.su/hydra.json",
+          "https://davidkazumi.github.io/fontekazumi.json",
+          "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json",
+          "https://hydralinks.cloud/sources/xatab.json",
+          "https://hydralinks.cloud/sources/tinyrepacks.json",
+          "https://hydralinks.cloud/sources/onlinefix.json",
+          "https://hydralinks.cloud/sources/kaoskrew.json",
+          "https://hydralinks.cloud/sources/fitgirl.json",
+          "https://hydralinks.cloud/sources/empress.json",
+          "https://hydralinks.cloud/sources/dodi.json",
+          "https://hydralinks.cloud/sources/steamrip.json",
+          "https://hydralinks.cloud/sources/atop-games.json",
+          "https://hydralinks.cloud/sources/steamrip-software.json"
+        ]
+      }
+      
+    ]
+  }
+  
